@@ -50,7 +50,7 @@ VisionMouse-AI is an advanced Computer Vision based touchless mouse control syst
 * Web Camera (Internal or USB)
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/VisionMouse-AI.git
+git clone https://github.com/BehradB289/VisionMouse-AI.git
 cd VisionMouse-AI
 
 2. Create and activate a Python virtual environment:
