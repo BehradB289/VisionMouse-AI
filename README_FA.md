@@ -50,7 +50,7 @@
 * وب‌کم (داخلی یا خارجی)
 
 ۱. مخزن را کلون کرده و وارد پوشه پروژه شوید:
-git clone https://github.com/YourUsername/VisionMouse-AI.git
+git clone https://github.com/BehradB289/VisionMouse-AI.git
 cd VisionMouse-AI
 
 ۲. یک محیط مجازی پایتون (Virtual Environment) ایجاد و فعال کنید:
